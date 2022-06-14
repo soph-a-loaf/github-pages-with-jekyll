@@ -11,4 +11,3 @@ I am one of the Co-Presidents for German Honor Society
 I am going to RU
 
 
-<img src = "WIN_20220518_12_09_02_Pro.jpg">
