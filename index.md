@@ -7,9 +7,9 @@ date: 2022-06-09
 ---
 
 I am one of the FBLA Co-Presidents
-\n
+/n
 I am one of the Co-Presidents for German Honor Society 
-\n
+/n
 I am going to RU
 
 
