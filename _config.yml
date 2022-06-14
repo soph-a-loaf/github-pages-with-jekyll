@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 
-<a href="https://www.instagram.com/">Instagram</a> # DO NOT include the @ character, or else the build will fail!
-<a href="https://www.snapchat.com/">Snapchat</a> # DO NOT include the @ character, or else the build will fail!
+twitter_username: sophia.ola # DO NOT include the @ character, or else the build will fail!
+instagram_username:  sophie.olaa # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
